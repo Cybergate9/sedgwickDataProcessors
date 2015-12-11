@@ -1,0 +1,21 @@
+{
+  "name": "sedgwickDataProcessors",
+  "version": "1.0.0",
+  "description": "Processer to convert text based report data to structured JSON",
+  "main": "dataproc.js",
+  "repository" : {"type": "git", "url": "https://github.com/ITWrangler/sedgwickDataProcessors.git"},
+  "scripts": {
+    "test": "echo \"Error: no tests specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "processer"
+  ],
+  "author": "Shaun Osborne",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "2.9.x",
+    "camel-case":"1.2.x"
+  },
+  "engine": ">= 5.0.0"
+}
