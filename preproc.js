@@ -1,11 +1,9 @@
 var fs = require("fs");
 var program = require('commander');
-//var filename = "type-utf8.txt";
 
 program.version('1.0.0')
 .option('-f --filename [filename]', 'filename')
 .parse(process.argv);
-
 
 var data = fs.readFileSync(program.filename, "utf8");
 
@@ -50,28 +48,24 @@ for(index in lineArr){
 			 console.log('[new bracket value]',newbrvalue);
 			 brvaluecollect = false;
 			}
-
 	}
 	else if(lineArr[index].match(/.*‡$/) != null){
 		newvalue = newvalue + lineArr[index];
 		console.log('[new bracket value]',newvalue);
 	}
-	/*else if(lineArr[index].match(/^\.\..*$/) != null){
-		console.log('[new bracket value]',lineArr[index]);
-	}*/
-	else{
+	else
+	{
 
 		    if(brvaluecollect && lineArr[index]!= ''){
 		    		newbrvalue = newbrvalue + " ¢ " + lineArr[index];
 		    }else{
 		    	    if(lineArr[index].match(/^.*:.*$/g)){
 		    	    	console.log('[new field]', lineArr[index]);
-		    	    } else {
-				    newvalue = newvalue + ' ' + lineArr[index];
-				}
+		    	     }
+						  else {
+				        newvalue = newvalue + ' ' + lineArr[index];
+				       }
 		    }
-
-
  	}
 }
-//console.log(lineArr);
+/* end of main */
