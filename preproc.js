@@ -1,3 +1,7 @@
+/*
+(c) Copyright Shaun Osborne 2015
+licence: https://github.com/ITWrangler/sedgwickDataProcessors/blob/master/LICENSE
+*/
 var fs = require("fs");
 var program = require('commander');
 
@@ -5,10 +9,16 @@ program.version('1.0.0')
 .option('-f --filename [filename]', 'filename')
 .parse(process.argv);
 
-var data = fs.readFileSync(program.filename, "utf8");
+if(program.filename === undefined){
+	console.log('ERROR: no file specified');
+	process.exit(1);
+}
+var data = fs.readFileSync(program.filename, 'utf8', function(err, data){
+		if(err) {throw error;}
+		return data;
+	});
 
 var lineArr = data.trim().split("\r\n");
-
 var newvalue='';
 var newbrvalue='';
 var brvaluecollect = false;
