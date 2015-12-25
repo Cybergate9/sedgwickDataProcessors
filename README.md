@@ -1,4 +1,4 @@
-NOTE: currently incomplete
+NOTE: currently incomplete (missing data, remap and espre processors)
 
 # Sedgwick Data Processors
 This repository contains the tools used to convert SNBase text exports (these are custom and designed by Sedgwick Museum) to structured JSON data ready for bulk import to elasticsearch.
