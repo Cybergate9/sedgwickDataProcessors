@@ -16,18 +16,18 @@ A bash script is supplied to run all conversions in order.
 
 e.g.
 
-./runprocs.sh trec5edited
+./runprocs.sh trec5e
 
-will take the file trec5edited-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5edited-esbulk.txt.
+will take the file trec5-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5edited-esbulk.txt.
 
 ## Usage (Windows/DOS/CMD)
 A CMD script is supplied to run all conversions in order.
 
 e.g.
 
-runprocs trec5edited
+runprocs trec5
 
-will take the file trec5edited-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5edited-esbulk.txt.
+will take the file trec5e-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5edited-esbulk.txt.
 
 ## Background
 I talk about the general approach in this [article](http://www.datarefinery.io/blog/2015-08-28/). I go on to talk about the pre-processor (preproc.js) [here](http://www.datarefinery.io/blog/2015-11-08/) and then the 'data processor' (dataproc.js) [here](http://www.datarefinery.io/blog/2015-11-11/).
