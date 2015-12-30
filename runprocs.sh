@@ -1,5 +1,9 @@
 #!/bin/bash
 echo Process for [$1]
+if [ $1 = '']; then
+  echo 'Error: filename missing'
+  exit
+fi
 echo 1. pre process..
 node preproc.js -f $1-up.txt > $1-pp.txt
 echo 2. data process..
