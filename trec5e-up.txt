@@ -1,0 +1,239 @@
+§ Identification numbers : 
+Object number : Test-DDF-OPAC-#1
+Other number : 
+† Old ref : 123456‡
+† Field No. : DP-01-01-14‡
+† Object Entry No. : 7891011‡
+† Ms. Cat. 1878 No.: : DP-01-07-14 #1‡
+† Old ref: Dxyz Rowan : DP-01-07-15 #2‡
+
+§ Department : 
+Department : Sedgwick Palaeontology Collection
+
+§ Identification type : 
+† Identification type : Identification 06
+Scientific name : "Cladocyclus lewesiensis"
+Author : Agassiz, L.
+Taxonomy : ../.. ~ Cladocyclus : Genus ~ Cladocyclus lewesiensis : Species
+Taxonomy type : Fish
+Specimen status : 
+../.. ~ PUBLICATION STATUS ~ [fig'd]
+../.. ~ TYPE STATUS ~ PRIMARY TYPES ~ holotype ~ [holotype]
+Simple name : 
+Taxonomic Hierarchy : Fish~ Vertebrate ~ Chordate ~ Metazoan ~ < ANIMAL > ~ ../..
+Bibliographic reference : 
+Search key : Zschau, F. (1885)
+Description : Fortschritt Isis Dresden
+page 49
+Notes : Notes for identification 06‡
+† Identification type : Identification 05
+Simple name : 
+Artefact : archival: book: facsimile~ archival: book ~ Archival ~ ../..‡
+† Identification type : Identification 04
+Scientific name : Asteracanthus ornatissimus var. flettonensis
+Author : Woodward A.S.
+Taxonomy : ../.. ~ Chordata : Phylum ~ Vertebrata, Lamarck, 1794 : SubPhylum ~ Pisces, Linnaeus, 1758 : SuperClass ~ Elasmobranchii : Class ~ Hybodontiformes : Order ~ Hybodontidae : Family ~ Asteracanthus : Genus ~ Asteracanthus ornatissimus, Agassiz : Species ~ Asteracanthus ornatissimus var. flettonensis : SubSpecies
+Taxonomy type : Fish
+Specimen status : 
+../.. ~ TYPE STATUS ~ PRIMARY TYPES ~ paralectotype
+../.. ~ PUBLICATION STATUS ~ fig'd
+../.. ~ PUBLICATION STATUS ~ described
+Simple name : 
+Taxonomic Hierarchy : Fish~ Vertebrate ~ Chordate ~ Metazoan ~ < ANIMAL > ~ ../..
+Anatomic Details : tooth~ Cephalic skeleton ~ Vertebrate ~ ../..
+Developmental stage : adult~ Vertebrata ~ ../..
+Woodwardian Colln [DP] : pesce vacca~ ../.. ~ 
+Bibliographic reference : 
+Search key : Abbott, D. (1962)
+Description : The Gabbro Cumulates of the Kap Edvard Holm complex, East Greenland
+Ph.D. thesis (Manchester)
+Search key : Abbott, D. & Deer, W.A. (1972)
+Description : The Gabbro Cumulates of the Kap Edvard Holm Lower Layered Series
+Meddelelser om Gronland
+Vol: 190, number 6
+Search key : Allen, C.R. (1975)
+Description : The Petrology of a portion of the Troodos Plutonic Complex, Cyprus
+Ph.D. thesis
+Notes : This notes field applies to Instance 04 of the 'Identification type' field group‡
+† Identification type : Identification 03
+Scientific name : Arnoglossus aff. laterna
+Author : (Walbaum)
+Taxonomy : ../.. ~ Osteichthyes : SuperClass ~ Actinopterygii : Class ~ Pleuronectiformes : Order ~ Bothidae : Family ~ Arnoglossus : Genus ~ Arnoglossus laterna : Species
+Taxonomy type : Fish
+Specimen status : 
+../.. ~ TYPE STATUS ~ PRIMARY TYPES ~ lectotype
+Simple name : 
+Taxonomic Hierarchy : Fish~ Vertebrate ~ Chordate ~ Metazoan ~ < ANIMAL > ~ ../..
+Anatomic Details : tooth~ Cephalic skeleton ~ Vertebrate ~ ../..
+Bibliographic reference : 
+Search key : Abbott, D. & Deer, W.A. (1972)
+Description : The Gabbro Cumulates of the Kap Edvard Holm Lower Layered Series
+Meddelelser om Gronland
+Vol: 190, number 6
+Notes : This notes field applies to Instance 03 of the 'Identification type' field group‡
+† Identification type : Identification 02
+Scientific name : Galeocerdo aduncus
+Author : Agassiz
+Taxonomy : ../.. ~ Chordata : Phylum ~ Vertebrata, Lamarck, 1794 : SubPhylum ~ Pisces, Linnaeus, 1758 : SuperClass ~ Elasmobranchii : Class ~ Carcharhiniformes : Order ~ Carcharhinidae : Family ~ Galeocerdo : Genus ~ Galeocerdo aduncus : Species
+Taxonomy type : Fish
+Specimen status : 
+../.. ~ TYPE STATUS ~ PRIMARY TYPES ~ paratype
+Simple name : 
+Taxonomic Hierarchy : Fish~ Vertebrate ~ Chordate ~ Metazoan ~ < ANIMAL > ~ ../..
+Anatomic Details : tooth~ Cephalic skeleton ~ Vertebrate ~ ../..
+Bibliographic reference : 
+Search key : Abbass, H.L. (1973)
+Description : Some British Cretaceous gastropods belonging to the families procerithiidae, cerithiidae and cerithiopsidae (cerithiacea). Bulletin of the British Museum (Natural History). Geology. vol. 23
+Notes : This notes field applies to Instance 02 of the 'Identification type' field group‡
+† Identification type : Identification 01
+Scientific name : Galeocerdo sp.
+Taxonomy : ../.. ~ Chordata : Phylum ~ Vertebrata, Lamarck, 1794 : SubPhylum ~ Pisces, Linnaeus, 1758 : SuperClass ~ Elasmobranchii : Class ~ Carcharhiniformes : Order ~ Carcharhinidae : Family ~ Galeocerdo : Genus
+Taxonomy type : Fish
+Specimen status : 
+../.. ~ TYPE STATUS ~ PRIMARY TYPES ~ holotype
+Simple name : 
+Taxonomic Hierarchy : Fish~ Vertebrate ~ Chordate ~ Metazoan ~ < ANIMAL > ~ ../..
+Anatomic Details : tooth~ Cephalic skeleton ~ Vertebrate ~ ../..
+Bibliographic reference : 
+Search key : Abbass, H.L. (1962)
+Description : The English Cretaceous Turritellidae and Mathildidaen (Gastropoda). Bulletin of the British Museum (Natural History). Geology  vol. vii. pp.173-196
+Notes : This notes field applies to Instance 01 of the 'Identification type' field group‡
+
+§ Physical description : 
+Measurements : 
+† Length : 10 cm‡
+† Width : 20 cm‡
+† Thickness : 1 cm‡
+Notes : This notes field applies to the 'Physical description' field group which is not repeatable
+
+§ Comments : 
+† Information type : Transcribed catalogue entry
+Transcribed catalogue information can be recorded here and is useful public information‡
+† Information type : Label
+Specimen label information can be recorded here and is useful public information‡
+† Information type : Translated transcription
+Translated transcription information can be recorded here and is useful public information‡
+† Information type : From Object Entry Form
+This information needs to be private‡
+
+§ Collection record : 
+Locality : 
+† ../.. ~ Europe : Continent ~ Western Europe : Continent ~ United Kingdom : country~ England‡
+† ../.. ~ Europe : Continent ~ Western Europe : Continent ~ United Kingdom : country ~ England : country~ Hertfordshire‡
+† ../.. ~ Europe : Continent ~ Western Europe : Continent ~ United Kingdom : country ~ England : country ~ Hertfordshire : county~ Hitchin‡
+† ../.. ~ Europe : Continent ~ Western Europe : Continent ~ United Kingdom : country ~ England : country ~ Hertfordshire : county ~ Hitchin~ Hitchin (gravel pit)‡
+† ../.. ~ Europe : Continent ~ Western Europe : Continent ~ United Kingdom : country ~ England : country ~ Hertfordshire : county~ [Hertfordshire]‡
+† ../.. ~ Africa : Continent ~ Egypt : country~ Abu Swayd (copper mine)‡
+† ../.. ~ Europe : Continent ~ United Kingdom : country ~ Scotland : country ~ Skye ~ Allt an Inbhire~ Allt an Inbhire (E branch)
+Locality coordinates : 
+GB National grid ref (presumed) : NG6018 NG6019
+Latitude/Longitude (Standardised) : 57.19N 5.95W‡
+Coordinates : 
+† GB National grid ref (Standardised) : TL1930‡
+† Latitude/Longitude (Standardised) : 51.9470N 0.2830W‡
+† Latitude/Longitude (deg. min. sec.) : 51° 56' 49.2"N 0° 16' 58.7994"W‡
+Collector : 
+† Pxyz, Dan‡
+† Rxyz, Matthew‡
+Collection date : 
+† Date collected : 2014‡
+† Date received : 2014/01/16‡
+† Deposited : 2014/04/04‡
+Notes : This notes field applies to the 'Collection Record' field group. The group is not repeatable, but all of its component fields are.
+
+§ Geological dating : 
+† Chronostratigraphy : Cretaceous ~ Mesozoic ~ Phanerozoic ~ ../..‡
+† Chronostratigraphy : Cretaceous (lower) ~ Cretaceous ~ Mesozoic ~ Phanerozoic ~ ../..‡
+† Chronostratigraphy : Albian ~ Albian-Aptian ~ Gallic ~ Cretaceous ~ Mesozoic ~ Phanerozoic ~ ../..‡
+† Chronostratigraphy : Albian (? early) ~ Albian ~ Albian-Aptian ~ Gallic ~ Cretaceous ~ Mesozoic ~ Phanerozoic ~ ../..‡
+† Lithostratigraphy : Gault ~ < Lower Cretaceous - broadly > ~ < Cretaceous - broadly > ~ < Mesozoic - broadly > ~ ../..‡
+† Lithostratigraphy : Gault (lower) ~ Gault ~ < Lower Cretaceous - broadly > ~ < Cretaceous - broadly > ~ < Mesozoic - broadly > ~ ../..‡
+† Biostratigraphy : Euhoplites lautus zone ~ < Lower Cretaceous - broadly > ~ < Cretaceous - broadly > ~ < Mesozoic - broadly > ~ ../..‡
+† Chronostratigraphy : [Aptian] (labelled Neocomian) ~ Aptian ~ Albian-Aptian ~ Gallic ~ Cretaceous ~ Mesozoic ~ Phanerozoic ~ ../..‡
+† Biostratigraphy : [Plenus Subzone] (possibly above) ~ Plenus Subzone ~ < Biostratigraphic units not assigned > ~ ../..‡
+Notes : This notes field applies to the 'Geological dating' group field 
+The group field is not repeatable but its fields are
+
+§ Historical associations : 
+† Association type : [presented]
+Associated person/body : [Moussa Direct Ltd]
+Notes : notes here‡
+† Association type : gift
+Associated person/body : Pxyz, Dan
+Notes : This notes field applies to the above repeatable 'historical associations' field group‡
+† Association type : purchased
+Associated person/body : Rxyz, Matthew
+Notes : This notes field applies to the above repeatable 'historical associations' field group‡
+
+§ Bibliography : 
+† Information type : Identification 06
+Search key : Zschau, F. (1885)
+Description : Fortschritt Isis Dresden
+page 49
+Notes : Notes for Biblio Identification 06‡
+† Information type : Identification 01
+Search key : Abbass, H.L. (1962)
+Description : The English Cretaceous Turritellidae and Mathildidaen (Gastropoda). Bulletin of the British Museum (Natural History). Geology  vol. vii. pp.173-196
+Notes : This notes field applies to the bibliographic reference above and usually contains page & fig info.‡
+† Information type : Identification 02
+Search key : Abbass, H.L. (1973)
+Description : Some British Cretaceous gastropods belonging to the families procerithiidae, cerithiidae and cerithiopsidae (cerithiacea). Bulletin of the British Museum (Natural History). Geology. vol. 23
+Notes : This notes field applies to the bibliographic reference above and usually contains page & fig info.‡
+† Information type : Identification 03
+Search key : Abbott, D. & Deer, W.A. (1972)
+Description : The Gabbro Cumulates of the Kap Edvard Holm Lower Layered Series
+Meddelelser om Gronland
+Vol: 190, number 6
+Notes : This notes field applies to the bibliographic reference above and usually contains page & fig info.‡
+† Information type : Identification 04
+Search key : Abbott, D. (1962)
+Description : The Gabbro Cumulates of the Kap Edvard Holm complex, East Greenland
+Ph.D. thesis (Manchester)
+Notes : This notes field applies to the bibliographic reference above and usually contains page & fig info.‡
+† Information type : Identification 04
+Search key : Abbott, D. & Deer, W.A. (1972)
+Description : The Gabbro Cumulates of the Kap Edvard Holm Lower Layered Series
+Meddelelser om Gronland
+Vol: 190, number 6
+Notes : This notes field applies to the bibliographic reference above and usually contains page & fig info.‡
+† Information type : Identification 04
+Search key : Allen, C.R. (1975)
+Description : The Petrology of a portion of the Troodos Plutonic Complex, Cyprus
+Ph.D. thesis
+Notes : This notes field applies to the bibliographic reference above and usually contains page & fig info.‡
+
+§ Photography : 
+† Information type : image
+Photography : 
+test 100‡
+† Information type : image
+Photography : 
+test‡
+
+§ Archives : 
+† Information type : Archive Drawing
+Shelf mark : SCLA 01/TAB28 
+Title : Table 28 (XXVIII) 'La vana speculazione' From original file title‡
+† Information type : Archive Collection (fonds)
+Shelf mark : SCLA 
+Title : The Papers of Agostino Scilla (1629-1700)
+Notes : This notes field applies to the 'Archives' field group which is repeatable‡
+† Information type : Archive Specimen Catalogue
+Shelf mark : TESTWoodward/1 
+Title : AN ATTEMPT Towards a Natural History OF THE FOSSILS of ENGLAND
+Notes : This notes field applies to the 'Archives' field group which is repeatable‡
+
+§ Associated object : 
+Managed object : 
+† Test-DDF-OPAC-#1.1 Asteracanthus ornatissimus var. flettonensis. Fish‡
+† Test-DDF-OPAC-#1.1 a Asteracanthus ornatissimus var. flettonensis. Fish‡
+† Test-DDF-OPAC-#1.1 b Asteracanthus ornatissimus var. flettonensis‡
+† Test-DDF-OPAC-#1.2‡
+† Test-DDF-OPAC-#1.2.1. Fish‡
+† Test-DDF-OPAC-#1.2.2‡
+
+§ System info : 
+Last update : 12 November 2015
+System number :  253643
+Record status : Validated record
+
