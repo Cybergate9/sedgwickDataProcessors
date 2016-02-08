@@ -1,4 +1,4 @@
-NOTE: currently incomplete (missing data, remap and espre processors)
+
 
 # Sedgwick Data Processors
 This repository contains the tools used to convert SNBase text exports (these are custom and designed by Sedgwick Museum) to structured JSON data ready for bulk import to elasticsearch.
@@ -18,7 +18,7 @@ e.g.
 
 ./runprocs.sh trec5e
 
-will take the file trec5-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5edited-esbulk.txt.
+will take the file trec5e-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5e-esbulk.txt.
 
 ## Usage (Windows/DOS/CMD)
 A CMD script is supplied to run all conversions in order.
