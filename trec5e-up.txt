@@ -5,7 +5,7 @@ Other number :
 † Field No. : DP-01-01-14‡
 † Object Entry No. : 7891011‡
 † Ms. Cat. 1878 No.: : DP-01-07-14 #1‡
-† Old ref: Dxyz Rowan : DP-01-07-15 #2‡
+† Old ref: Debra Rowan : DP-01-07-15 #2‡
 
 § Department : 
 Department : Sedgwick Palaeontology Collection
@@ -25,7 +25,8 @@ Bibliographic reference :
 Search key : Zschau, F. (1885)
 Description : Fortschritt Isis Dresden
 page 49
-Notes : Notes for identification 06‡
+Notes : Notes for identification 06
+more notes‡
 † Identification type : Identification 05
 Simple name : 
 Artefact : archival: book: facsimile~ archival: book ~ Archival ~ ../..‡
@@ -133,8 +134,8 @@ Coordinates :
 † Latitude/Longitude (Standardised) : 51.9470N 0.2830W‡
 † Latitude/Longitude (deg. min. sec.) : 51° 56' 49.2"N 0° 16' 58.7994"W‡
 Collector : 
-† Pxyz, Dan‡
-† Rxyz, Matthew‡
+† Pemberton, Dan‡
+† Riley, Matthew‡
 Collection date : 
 † Date collected : 2014‡
 † Date received : 2014/01/16‡
@@ -159,10 +160,10 @@ The group field is not repeatable but its fields are
 Associated person/body : [Moussa Direct Ltd]
 Notes : notes here‡
 † Association type : gift
-Associated person/body : Pxyz, Dan
+Associated person/body : Pemberton, Dan
 Notes : This notes field applies to the above repeatable 'historical associations' field group‡
 † Association type : purchased
-Associated person/body : Rxyz, Matthew
+Associated person/body : Riley, Matthew
 Notes : This notes field applies to the above repeatable 'historical associations' field group‡
 
 § Bibliography : 
