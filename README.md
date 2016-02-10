@@ -25,7 +25,7 @@ A CMD script is supplied to run all conversions in order.
 
 e.g.
 
-runprocs trec5
+runprocs.cmd trec5
 
 will take the file trec5e-up.txt through 4 stages (pre, data, remap, and espre processors) creating the final file trec5edited-esbulk.txt.
 
