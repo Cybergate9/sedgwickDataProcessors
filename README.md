@@ -9,7 +9,7 @@ The 'target' for this data is an angular.js based online public access catalogue
 
 ## Installation
 * download repository (zip or git pull)
-* npm install in target directory (to install required npm packages from package.json)
+* `npm install` in the target directory (to install required npm packages from package.json)
 
 ## Usage (\*nix or OSX)
 A bash script is supplied to run all conversions in order.
