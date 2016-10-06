@@ -2,10 +2,10 @@
 
 # Sedgwick Data Processors
 This repository contains the tools used to convert SNBase text exports (these are custom and designed by Sedgwick Museum) to structured JSON data ready for bulk import to elasticsearch.
-The 'target' for this data is an angular.js based online public access catalogue (to 'live' at: collections.sedgwick.org).
+The 'target' for this data is an angular.js based online public access catalogue.
 
 ## Pre-requisities
-* requires node.js >5.x.x
+* requires node.js >5.4.x
 
 ## Installation
 * download repository (zip or git pull)
