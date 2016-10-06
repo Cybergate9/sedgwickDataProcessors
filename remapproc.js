@@ -1,3 +1,7 @@
+/*
+(c) Copyright Shaun Osborne 2015/16
+licence: https://github.com/ITWrangler/sedgwickDataProcessors/blob/master/LICENSE
+*/
 var fs = require("fs");
 var program = require('commander');
 var camelCase = require('camel-case');
@@ -491,11 +495,11 @@ function remapNumberedSubfields(obj){
 		if(sepvalues.length >= 2){
 			retobj[sepvalues[0]] = sepvalues[1].trim();
 		}
-		
+
 	}
 			//console.log(retobj);
   return retobj;
-} 
+}
 
 function remapComments(obj){
 	//console.log(obj);
@@ -514,7 +518,7 @@ function remapComments(obj){
 	}
 
   return retobj;
-} 
+}
 
 function remapBibliography(obj){
 	//console.log(obj);
@@ -627,12 +631,12 @@ function remapLocality(obj){
   }
  }
 //remove matched&deleted elements
-//console.log("dels: "+JSON.stringify(dels));	
+//console.log("dels: "+JSON.stringify(dels));
 	for(del in dels){
 		//console.log("delete:del="+dels[del]);
 		delete(retobj[dels[del]]);
 	}
-//console.log("retobj: "+JSON.stringify(retobj));	
+//console.log("retobj: "+JSON.stringify(retobj));
 // convert to an array
 	retarr = [];
 	for(obj in retobj){
@@ -660,6 +664,10 @@ function processReverseTree(invalue,reversefieldvalue,ignorerootmarker){
 	if(invalue === undefined){
 		return  {"orig": invalue};
 	}
+  if(Array.isArray(invalue)){ /* if per chance we end up with an array here, take 1st one*/
+    	temp = invalue[0];
+    	invalue = temp;
+    }
 	if(!invalue.match(/\.\.\/\.\./)){
 		return  {"orig": invalue};
 	}
@@ -784,6 +792,10 @@ function processForwardTree(invalue,reversefieldvalue,ignorerootmarker){
 	if(invalue === undefined){
 		return  {"orig": value};
 	}
+	if(Array.isArray(invalue)){ /* if per chance we end up with an array here, take 1st one*/
+    	temp = invalue[0];
+    	invalue = temp;
+    }
 	if(!invalue.match(/\.\.\/\.\./)){
 		return  {"orig": invalue};
 	}

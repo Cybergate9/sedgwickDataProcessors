@@ -1,3 +1,7 @@
+/*
+(c) Copyright Shaun Osborne 2015/16
+licence: https://github.com/ITWrangler/sedgwickDataProcessors/blob/master/LICENSE
+*/
 var fs = require("fs");
 var program = require('commander');
 var camelCase = require('camel-case');
